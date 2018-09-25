@@ -1,0 +1,6 @@
+package-as: InstanceLocks
+
+enable-nolib-creation: no
+
+ignore:
+  - README.md
