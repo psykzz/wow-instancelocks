@@ -1,9 +1,8 @@
-## Interface: 80000
+## Interface: 80300
 ## Title: |cff0000ffLockouts|r
 ## Version: @project-version@
-## Notes: Shares all quests with parties members.
+## Notes: Print raid / instance lockouts to chat
 ## Author: PsyKzz
 
-## X-Curse-Project-ID: 303670
 
 code.lua
